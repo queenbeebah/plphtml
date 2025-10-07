@@ -1,8 +1,8 @@
 # Basic Calculator Program
 
 # Ask the user to input two numbers
-num1 = float(input("Enter the first number: "))
-num2 = float(input("Enter the second number: "))
+num1 = float(input("Enter the first number: 10"))
+num2 = float(input("Enter the second number: 5"))
 
 # Ask the user to input the operation
 operation = input("Enter an operation (+, -, *, /): ")
